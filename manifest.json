@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Vimium",
+  "name": "minium",
   "version": "2.1.2",
   "description": "The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.",
   "icons": {
